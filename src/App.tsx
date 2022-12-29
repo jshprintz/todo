@@ -1,5 +1,6 @@
 import TodoInput from "./Todo/TodoInput";
 import TodoList from "./Todo/TodoList";
+import TodoStore from "./stores/TodoStore";
 
 const todos = new TodoStore();
 
